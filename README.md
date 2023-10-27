@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adam Levon Brown</h1>
-<h3 align="center">A passionate Cyber Security Specialist from the United States.</h3>
+<h3 align="center">Gamer turned aspiring Unity Engineer/Game Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamancer4&label=Profile%20views&color=0e75b6&style=flat" alt="adamancer4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamancer4" alt="adamancer4" /></a> </p>
 
-- 🌱 I’m currently learning **Python Automation**
+- 🌱 I’m currently learning **C# and Unity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
