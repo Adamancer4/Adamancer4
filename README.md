@@ -16,6 +16,5 @@ I'm currently learning: Python 3, Javascript, and Unity.<br><br><br>I'm learning
 ---
 [![](https://visitcount.itsvg.in/api?id=Adamancer4&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->in/adamlevonbrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamlevonbrown" height="30" width="40" /></a>
-</p>
+
 
