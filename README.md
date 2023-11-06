@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Levon Brown</h1>
 
 # 💫 About Me:
-I'm currently learning: Python 3, Javascript, and Unity.<br><br><br>I'm learning web development, Langchain, and Unity and creating my porfolio. I want to work in either web development or Game development. i have experience and knowledge in many software applications. I also have experience and knowledge in Cybersecurity.
+I'm currently learning: Python 3, Javascript, and Unity.<br><br><br>I'm learning web development, Langchain, and Unity and creating my porfolio. I want to work in either web development or Game development. i have experience and knowledge in many software applications. I also have experience and knowledge in Cybersecurity and IT support.
 
 
 ## 🌐 Socials:
